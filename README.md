@@ -12,15 +12,15 @@ Todos os ícones estão localizados na pasta `/icons/`.
 
 | Ícone                          | Descrição                          | Link Direto |
 |-------------------------------|-------------------------------------|-------------|
-| `icon_suporte.png`            | Ícone para o botão "Solicitar Suporte" | [Copiar link aqui] |
-| `icon_regras.png`             | Ícone para o tópico "Regras do Servidor" | [Copiar link aqui] |
-| `icon_redes.png`              | Ícone para o tópico "Nossas Redes Sociais" | [Copiar link aqui] |
-| `icon_proteger_casa.png`      | Ícone para "Proteger Casa"            | [Copiar link aqui] |
-| `icon_teleporte.png`          | Ícone para "Marcar Teleportes"        | [Copiar link aqui] |
-| `icon_aventura.png`           | Ícone para "Explorar / Aventurar"     | [Copiar link aqui] |
-| `icon_reinos.png`             | Ícone para "Reinos / Grupos"          | [Copiar link aqui] |
-| `icon_lojas.png`              | Ícone para "Usar / Criar Lojas"       | [Copiar link aqui] |
-| `icon_banco.png`              | Ícone para "Usar / Criar Conta Bancária" | [Copiar link aqui] |
+| `icon_suporte.png`            | Ícone para o botão "Solicitar Suporte" | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_suporte.png] |
+| `icon_regras.png`             | Ícone para o tópico "Regras do Servidor" | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_regras.png] |
+| `icon_redes.png`              | Ícone para o tópico "Nossas Redes Sociais" | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_redes.png] |
+| `icon_proteger_casa.png`      | Ícone para "Proteger Casa"            | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_proteger_casa.png] |
+| `icon_teleporte.png`          | Ícone para "Marcar Teleportes"        | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_teleporte.png] |
+| `icon_aventura.png`           | Ícone para "Explorar / Aventurar"     | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_aventura.png] |
+| `icon_reinos.png`             | Ícone para "Reinos / Grupos"          | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_reinos.png] |
+| `icon_lojas.png`              | Ícone para "Usar / Criar Lojas"       | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_lojas.png] |
+| `icon_banco.png`              | Ícone para "Usar / Criar Conta Bancária" | [https://github.com/MrMassimus/scbr_icons/blob/main/icon_banco.png] |
 
 ---
 
